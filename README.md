@@ -1,4 +1,4 @@
-# 🐦 Chidiya Udd (चिड़िया उड़)
+# चिड़िया उड़
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 
 
 </div>
-# 🐦 CHIDIYA UDD (चिड़िया उड़)
+#  CHIDIYA UDD
 > **"A millisecond of nostalgia. A lifetime of reflexes."**
 
 ---
@@ -18,13 +18,6 @@
 Once upon a time, before high-refresh-rate monitors and haptic feedback, we had a circle of friends and a dusty floor. We would place our index fingers down and wait for the chant: *"Chidiya Udd... Tota Udd... Maina Udd... Gaay Udd?"*
 
 If you lifted your finger for the cow, you were out. No pauses, no saves, just pure human instinct. This project is a digital love letter to those afternoons—a retro-pixel rebirth of India's favorite playground game.
-
----
-
-### 🕹️ The Vibe
-- **Pure Retro:** 8-bit aesthetics meeting modern fluid animations.
-- **High Stakes:** It's a test of your brain's "fly or no-fly" logic.
-- **Multiplayer Soul:** Built to bring that childhood circle into the digital arena.
 
 ---
 
